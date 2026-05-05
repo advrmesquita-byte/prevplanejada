@@ -1,0 +1,7 @@
+COLOQUE SUAS FOTOS AQUI COM ESTES NOMES:
+
+logo-mesquita.png  → Logo do escritório
+foto1.png          → Sua foto principal (Hero)
+foto2.png          → Foto no escritório (Sobre)
+
+Formatos aceitos: .png, .jpg, .jpeg, .webp
